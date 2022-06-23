@@ -1,0 +1,462 @@
+context.countries.Add(new Country{ CountryCode = "AX",CountryName = "ALAND ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "AZ",CountryName = "AZERBAIJAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BA",CountryName = "BOSNIA AND HERZEGOVINA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BB",CountryName = "BARBADOS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BD",CountryName = "BANGLADESH", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BE",CountryName = "BELGIUM", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BF",CountryName = "BURKINA FASO", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BG",CountryName = "BULGARIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BH",CountryName = "BAHRAIN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BI",CountryName = "BURUNDI", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BJ",CountryName = "BENIN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BM",CountryName = "BERMUDA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BN",CountryName = "BRUNEI DARUSSALAM", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BO",CountryName = "BOLIVIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BR",CountryName = "BRAZIL", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BS",CountryName = "BAHAMAS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BT",CountryName = "BHUTAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BV",CountryName = "BOUVET ISLAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BW",CountryName = "BOTSWANA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BY",CountryName = "BELARUS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "BZ",CountryName = "BELIZE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CA",CountryName = "CANADA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CC",CountryName = "COCOS (KEELING) ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CD",CountryName = "CONGO, THE DEMOCRATIC REPUBLIC OF THE (formerly Zaire)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CF",CountryName = "CENTRAL AFRICAN REPUBLIC", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CG",CountryName = "CONGO(REPUBLIC OF CONGO)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CH",CountryName = "SWITZERLAND (Confederation of Helvetia)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CI",CountryName = "COTE D'IVOIRE (Ivory Coast)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CK",CountryName = "COOK ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CL",CountryName = "CHILE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CM",CountryName = "CAMEROON", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CN",CountryName = "CHINA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CO",CountryName = "COLOMBIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CR",CountryName = "COSTA RICA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CU",CountryName = "CUBA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CV",CountryName = "CAPE VERDE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CX",CountryName = "CHRISTMAS ISLAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CY",CountryName = "CYPRUS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "CZ",CountryName = "CZECH REPUBLIC", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "DD",CountryName = "DUTY FREE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "DE",CountryName = "GERMANY (Deutschland)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "DJ",CountryName = "DJIBOUTI", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "DK",CountryName = "DENMARK", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "DM",CountryName = "DOMINICA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "DO",CountryName = "DOMINICAN REPUBLIC", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "DZ",CountryName = "ALGERIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "EC",CountryName = "ECUADOR", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "EE",CountryName = "ESTONIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "EG",CountryName = "EGYPT", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "EH",CountryName = "WESTERN SAHARA (formerly Spanish Sahara)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ER",CountryName = "ERITREA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ES",CountryName = "SPAIN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ET",CountryName = "ETHIOPIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "FI",CountryName = "FINLAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "FJ",CountryName = "FIJI", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "FK",CountryName = "FALKLAND ISLANDS (MALVINAS)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "FM",CountryName = "MICRONESIA (Federated States of Micronesia)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "FO",CountryName = "FAEROE ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "FR",CountryName = "FRANCE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GA",CountryName = "GABON", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GB",CountryName = "UNITED KINGDOM (Great Britain)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GD",CountryName = "GRENADA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GE",CountryName = "GEORGIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GF",CountryName = "FRENCH GUIANA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GG",CountryName = "GUERNSEY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GH",CountryName = "GHANA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GI",CountryName = "GIBRALTAR", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GL",CountryName = "GREENLAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GM",CountryName = "GAMBIA, THE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GN",CountryName = "GUINEA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GP",CountryName = "GUADELOUPE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GQ",CountryName = "EQUATORIAL GUINEA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GR",CountryName = "GREECE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GS",CountryName = "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GT",CountryName = "GUATEMALA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GU",CountryName = "GUAM", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GW",CountryName = "GUINEA-BISSAU", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "GY",CountryName = "GUYANA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "HK",CountryName = "HONG KONG (Special Administrative Region of China)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "HM",CountryName = "HEARD ISLAND AND MCDONALD ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "HN",CountryName = "HONDURAS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "HR",CountryName = "CROATIA (Hrvatska)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "HT",CountryName = "HAITI", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "HU",CountryName = "HUNGARY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ID",CountryName = "INDONESIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "IE",CountryName = "IRELAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "IL",CountryName = "ISRAEL", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "IM",CountryName = "ISLE OF MAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "IN",CountryName = "INDIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "IO",CountryName = "BRITISH INDIAN OCEAN TERRITORY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "IQ",CountryName = "IRAQ", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "IR",CountryName = "IRAN (Islamic Republic of Iran)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "IS",CountryName = "ICELAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "IT",CountryName = "ITALY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "JE",CountryName = "JERSEY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "JM",CountryName = "JAMAICA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "JO",CountryName = "JORDAN (Hashemite Kingdom of Jordan)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "JP",CountryName = "JAPAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KE",CountryName = "KENYA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KG",CountryName = "KYRGYZSTAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KH",CountryName = "CAMBODIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KI",CountryName = "KIRIBATI", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KM",CountryName = "COMOROS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KN",CountryName = "SAINT KITTS AND NEVIS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KP",CountryName = "KOREA (Democratic Peoples Republic of North Korea)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KR",CountryName = "KOREA (Republic of South Korea)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KW",CountryName = "KUWAIT", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KY",CountryName = "CAYMAN ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "KZ",CountryName = "KAZAKHSTAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LA",CountryName = "LAO PEOPLE'S DEMOCRATIC REPUBLIC", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LB",CountryName = "LEBANON", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LC",CountryName = "SAINT LUCIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LI",CountryName = "LIECHTENSTEIN (Furstentum Liechtenstein)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LK",CountryName = "SRI LANKA (formerly Ceylon)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LR",CountryName = "LIBERIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LS",CountryName = "LESOTHO", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LT",CountryName = "LITHUANIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LU",CountryName = "LUXEMBOURG", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LV",CountryName = "LATVIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "LY",CountryName = "LIBYA (Libyan Arab Jamahirya)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MA",CountryName = "MOROCCO", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MC",CountryName = "MONACO", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MD",CountryName = "MOLDOVA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ME",CountryName = "MONTENEGRO", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MG",CountryName = "MADAGASCAR", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MH",CountryName = "MARSHALL ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MK",CountryName = "MACEDONIA (Former Yugoslav Republic of Macedonia)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ML",CountryName = "MALI", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MM",CountryName = "MYANMAR (formerly Burma)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MN",CountryName = "MONGOLIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MO",CountryName = "MACAO (Special Administrative Region of China)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MP",CountryName = "NORTHERN MARIANA ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MQ",CountryName = "MARTINIQUE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MR",CountryName = "MAURITANIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MS",CountryName = "MONTSERRAT", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MT",CountryName = "MALTA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MU",CountryName = "MAURITIUS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MV",CountryName = "MALDIVES", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MW",CountryName = "MALAWI", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MX",CountryName = "MEXICO", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MY",CountryName = "MALAYSIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "MZ",CountryName = "MOZAMBIQUE(Mocambique)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NA",CountryName = "NAMIBIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NC",CountryName = "NEWCALEDONIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NE",CountryName = "NIGER", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NF",CountryName = "NORFOLK ISLAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NG",CountryName = "NIGERIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NI",CountryName = "NICARAGUA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NL",CountryName = "NETHERLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NO",CountryName = "NORWAY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NP",CountryName = "NEPAL", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NR",CountryName = "NAURU", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NU",CountryName = "NIUE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "NZ",CountryName = "NEW ZEALAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "OM",CountryName = "OMAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PA",CountryName = "PANAMA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PE",CountryName = "PERU", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PF",CountryName = "FRENCH POLYNESIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PG",CountryName = "PAPUA NEW GUINEA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PH",CountryName = "PHILIPPINES", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PK",CountryName = "PAKISTAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PL",CountryName = "POLAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PM",CountryName = "SAINT PIERRE AND MIQUELON", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PN",CountryName = "PITCAIRN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PR",CountryName = "PUERTO RICO", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PS",CountryName = "PALESTINIAN TERRITORIES", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PT",CountryName = "PORTUGAL", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PW",CountryName = "PALAUPY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "PY",CountryName = "PARAGUAY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "QA",CountryName = "QATAR", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "RE",CountryName = "REUNION", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "RO",CountryName = "ROMANIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "RS",CountryName = "SERBIA(Republic of Serbia)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "RU",CountryName = "RUSSIAN FEDERATION", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "RW",CountryName = "RWANDA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SA",CountryName = "SAUDI ARABIA(Kingdom of Saudi Arabia)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SB",CountryName = "SOLOMON ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SC",CountryName = "SEYCHELLES", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SD",CountryName = "SUDAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SE",CountryName = "SWEDEN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SG",CountryName = "SINGAPORE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SH",CountryName = "SAINT HELENA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SI",CountryName = "SLOVENIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SJ",CountryName = "SVALBARD AND JAN MAYEN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SK",CountryName = "SLOVAKIA(Slovak Republic)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SL",CountryName = "SIERRA LEONE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SM",CountryName = "SAN MARINO (Republic of)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SN",CountryName = "SENEGAL", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SO",CountryName = "SOMALIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SR",CountryName = "SURINAME", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SS",CountryName = "SHIP STORES", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ST",CountryName = "SAO TOME AND PRINCIPE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SV",CountryName = "EL SALVADOR", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SY",CountryName = "SYRIAN ARAB REPUBLIC", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "SZ",CountryName = "SWAZILAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TC",CountryName = "TURKS AND CAICOS ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TD",CountryName = "CHAD (Tchad)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TF",CountryName = "FRENCH SOUTHERN TERRITORIES", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TG",CountryName = "TOGO", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TH",CountryName = "THAILAND", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TJ",CountryName = "TAJIKISTAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TK",CountryName = "TOKELAU", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TL",CountryName = "TIMOR-LESTE (formerly East Timor)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TM",CountryName = "TURKMENISTAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TN",CountryName = "TUNISIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TO",CountryName = "TONGA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TR",CountryName = "TURKEY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TT",CountryName = "TRINIDAD AND TOBAGO", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TV",CountryName = "TUVALU", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TW",CountryName = "TAIWAN (Chinese Taipei for IOC)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "TZ",CountryName = "TANZANIA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "UA",CountryName = "UKRAINE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "UG",CountryName = "UGANDA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "UM",CountryName = "UNITED STATES MINOR OUTLYING ISLANDS", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "US",CountryName = "UNITED STATES", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "UY",CountryName = "URUGUAY", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "UZ",CountryName = "UZBEKISTAN", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "VA",CountryName = "VATICAN CITY (Holy See)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "VC",CountryName = "SAINT VINCENT AND THE GRENADINES", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "VE",CountryName = "VENEZUELA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "VG",CountryName = "VIRGIN ISLANDS, BRITISH", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "VI",CountryName = "VIRGIN ISLANDS, U.S.", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "VN",CountryName = "VIET NAM", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "VU",CountryName = "VANUATU", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "WF",CountryName = "WALLIS AND FUTUNA", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "WS",CountryName = "SAMOA (formerly Western Samoa)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "YE",CountryName = "YEMEN (Yemen Arab Republic)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "YT",CountryName = "MAYOTTE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ZA",CountryName = "SOUTH AFRICA (Zuid Afrika)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ZM",CountryName = "ZAMBIA (formerly Northern Rhodesia)", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
+context.countries.Add(new Country{ CountryCode = "ZW",CountryName = "ZIMBABWE", CreatedAt = System.DateTime.Now,CreatedBy = "System"});
+context.SaveChanges();
