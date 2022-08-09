@@ -21,8 +21,7 @@ namespace ConsoleApp1
             var ans = new List<string>();
             for (int i = 0; i < lines.Count; i++)
             {
-                var splited = lines[i].Split(' ');
-                var code = splited[0].Trim();
+                var code = lines[i].Split(' ')[0].Trim();
                 var name = string.Join(" ", lines[i].Split(' ').Skip(1)).Trim();
                 var test = "context.countries.Add(new Country{ CountryCode = \"" + code + "\",CountryName = \"" + name + "\", CreatedAt = System.DateTime.Now,CreatedBy = \"System\"});\n\rcontext.SaveChanges();";
                
